@@ -1,8 +1,8 @@
-# FitPlanHub 🏋️‍♂️
+# FitPlanHub 
 
 FitPlanHub is a full-stack fitness platform where certified trainers create paid fitness plans and users can follow trainers and subscribe to plans.
 
-## 🚀 Features
+## Features
 - User & Trainer authentication (JWT)
 - Role-based dashboards
 - Trainer fitness plan CRUD
@@ -11,12 +11,12 @@ FitPlanHub is a full-stack fitness platform where certified trainers create paid
 - Personalized user feed
 - Secure access control
 
-## 🛠 Tech Stack
+## Tech Stack
 - Backend: FastAPI, SQLAlchemy, SQLite
 - Frontend: React.js, Tailwind CSS
 - Authentication: JWT
 
-## ▶️ How to Run
+## How to Run
 
 ### Backend
 ```bash
