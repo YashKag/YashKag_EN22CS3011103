@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+npm-debug.log
+yarn.lock
+
+# Env
+.env
+
+# OS
+.DS_Store
